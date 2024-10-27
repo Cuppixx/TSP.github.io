@@ -1,2 +1,2 @@
 # TSP.github.io
-The public counterpart of my private repo that contains my academic paper on the TSP. Removed title page for privacy reasons. 
+This is the public version of my private repository containing my academic paper on the TSP. The title page has been removed for privacy reasons.
